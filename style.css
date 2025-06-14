@@ -1,0 +1,29 @@
+body{
+   background-color: black;
+   color: white;
+   font-family: arial;
+   margin: 0;
+}
+
+.botao{
+   width: 100px;
+   height: 100px;
+   background-color: #4C1ACD;
+   color: white;
+   border: red solid 5px;
+   border-radius: 25px;
+   text-align: center;
+}
+.bApertado{
+   background-color: #C81F1F;
+   border-color: black;
+}
+.cab{
+   color: gold;
+   margin: 0 0 10px 0;
+}
+.box{
+   padding: 10px;
+   border: white dashed 3.5px;
+   margin: 20px;
+}
